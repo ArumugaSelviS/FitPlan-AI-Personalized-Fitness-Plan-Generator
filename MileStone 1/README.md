@@ -65,4 +65,9 @@ o	Render
 o	Hugging Face Spaces
 
 
+Project Hugging Face Link
+https://huggingface.co/spaces/ArumugaSelvi/FitPlan-AI-Milestone1
+
+
+
 
