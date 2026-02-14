@@ -68,6 +68,21 @@ o	Hugging Face Spaces
 Project Hugging Face Link
 https://huggingface.co/spaces/ArumugaSelvi/FitPlan-AI-Milestone1
 
+Technologies Used:
+Python
+
+Streamlit
+
+HTML
+
+CSS
+
+Matplotlib
+
+GitHub
+
+Deployment Platforms (Hugging Face Spaces)
+
 
 
 
