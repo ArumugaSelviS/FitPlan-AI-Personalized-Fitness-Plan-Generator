@@ -1,4 +1,5 @@
 FitPlan AI – Milestone Report
+
 1️) Objective of the Milestone
 
 The objective of this milestone was to develop an AI-powered fitness planning system called FitPlan AI, which generates a personalized 5-day workout plan based on user inputs such as:
