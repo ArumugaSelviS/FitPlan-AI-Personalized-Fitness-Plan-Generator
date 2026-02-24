@@ -221,8 +221,4 @@ Structured the output clearly
 6️) Hugging Face Space Deployment Link
 
 https://huggingface.co/spaces/ArumugaSelvi/FitPlan-AI-Milestone2
-Streamlit app
 
-Mistral API integration
-
-🔗 Deployment Link:
