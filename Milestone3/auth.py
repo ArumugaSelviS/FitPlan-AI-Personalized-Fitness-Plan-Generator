@@ -1,7 +1,7 @@
 import os
 import time
 
-os.environ["GEMINI_API_KEY"] = "AIzaSyC2TgST8bfBcB7Pdl1g7pwQo91V1x3SQvI"
+os.environ["GEMINI_API_KEY"] = "**************************************"
 
 !pkill -f streamlit
 
