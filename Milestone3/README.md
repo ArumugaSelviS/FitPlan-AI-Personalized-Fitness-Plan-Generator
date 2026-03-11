@@ -1,5 +1,5 @@
 🏋️ FitPlan AI – Personalized Workout Generator
-📌 Project Overview
+1) Project Overview
 
 FitPlan AI is an AI-powered web application that generates personalized workout plans based on user fitness data.
 
@@ -33,7 +33,7 @@ SQLite database storage
 
 JWT token authentication
 
-🎯 Objective of the Project
+2) Objective of the Project
 
 The objective of this project is to develop an AI-based fitness assistant that provides customized workout plans tailored to each user's body metrics and fitness goals.
 
@@ -49,7 +49,7 @@ Demonstrate integration of AI models with a real-world application
 
 This project combines Artificial Intelligence, Web Development, and Database Systems.
 
-🤖 AI Model Used
+3) AI Model Used
 
 The model used in this project is:
 
@@ -75,7 +75,7 @@ Easy integration with Python applications
 
 Gemini is used to generate personalized workout plans based on user input data.
 
-🧠 Prompt Design
+4) Prompt Design
 
 The prompt sent to the AI model is carefully designed to ensure structured and safe workout generation.
 
@@ -131,7 +131,7 @@ Adjusts intensity based on BMI
 
 Provides safe training routines
 
-⚙️ System Architecture
+5) System Architecture
 
 The system contains the following main components.
 
@@ -202,38 +202,11 @@ The system:
 5️⃣ Receives a generated workout plan
 6️⃣ Displays the result on the dashboard
 
-📊 BMI Calculation
+6) BMI Calculation
 
 BMI is calculated using the formula:
 
-𝐵
-𝑀
-𝐼
-=
-𝑤
-𝑒
-𝑖
-𝑔
-ℎ
-𝑡
-(
-ℎ
-𝑒
-𝑖
-𝑔
-ℎ
-𝑡
-/
-100
-)
-2
-BMI=
-(height/100)
-2
-weight
-	​
-
-
+𝐵𝑀𝐼=𝑤𝑒𝑖𝑔ℎ𝑡(ℎ𝑒𝑖𝑔ℎ𝑡/100)^ 2
 Example:
 
 Height = 170 cm
@@ -251,7 +224,7 @@ BMI Range	Category
 
 This helps adjust workout difficulty.
 
-🖥️ Application Workflow
+7) Application Workflow
 Step 1 – Signup Page
 
 User enters:
@@ -294,7 +267,7 @@ Sends prompt to Gemini AI
 
 Generates a personalized 5-day workout plan
 
-📋 Sample Generated Output
+8)  Sample Generated Output
 
 Example Input:
 
